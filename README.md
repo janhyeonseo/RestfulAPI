@@ -24,6 +24,8 @@
     <tr>
         <td>
             <img src="https://cafeptthumb-phinf.pstatic.net/MjAyNDA3MzFfMTkw/MDAxNzIyMzg4Nzk5ODE3.NYzwbZTzgRYZk2z-MfprNIk1FjySOqaeg3uVesppj9wg.SkiTC2zMPpcjyIBJ2AQzHXBD214H_BVIWwfg7Knx43gg.PNG/C11.PNG?type=w1600">
+        </td>
+        <td>
             <img src="https://cafeptthumb-phinf.pstatic.net/MjAyNDA3MzFfMjAy/MDAxNzIyMzg4Nzk5ODI2.e4d7Oz8bnNsnwVQ78IIG13MPUScf4EN7WeAHthYLw14g.U3Sdj_8IJF1OysnDfZEuBaaHpc4xJqIxDLi8m71ygvIg.PNG/C12.PNG?type=w1600">
         </td>
     </tr>
